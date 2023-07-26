@@ -1,0 +1,66 @@
+.grid{
+     background-color: transparent;
+     width: 300px;
+     margin-top: 20px;
+     color: aliceblue;
+}
+.details{
+     padding: 20px;
+     color: aliceblue;
+     font-family: monospace;
+     
+}
+.icon{
+     color: rgb(20, 137, 96);
+     margin-top: 30px;
+}
+.icon:hover{
+     color: rgb(16, 91, 2);
+}
+.donatediv{
+     -webkit-box-shadow: 0px 0px 17px 5px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 17px 5px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 17px 5px rgba(44, 41, 41, 0.75);
+
+}
+.update{
+     margin: 100px;
+}
+.updatediv{
+     margin: 100px;
+}
+#outlined-basic{
+   width: 500px;
+}
+#pap{
+    margin-top: 130px;
+    margin-left: 400px;
+     width: 700px;
+     background-color: rgb(95, 0, 177);
+}
+.header{
+      color: rgb(212, 199, 193);
+}
+.text{
+     width: 500px;
+     margin-bottom: 200px;
+}
+.num{
+     border-style: none;
+     width: 60px;
+     font-size: 30px;
+    
+     border-top: 10px;
+}
+.div{
+     height: 20px;
+}
+.content{
+     background-color: rgb(26, 19, 19);
+     height: 130px;
+     width: 400px;
+     margin: 20px;
+     
+}
+
+
